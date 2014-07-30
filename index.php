@@ -14,7 +14,7 @@
  * @package JAF
  * @subpackage Core
  * @author sebastian[at]mitos-kalandiel.me
- * @copyright  Copyright (c) 2008, Joker Solutions
+ * @copyright  Copyright (c) 2008-2014, Joker Solutions
  * @version 0.61
  * @license http://www.gnu.org/licenses/gpl.html GNU General Public License
  * @release pre-beta
