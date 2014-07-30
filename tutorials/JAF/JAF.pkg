@@ -1,0 +1,50 @@
+<refentry id="{@id}">
+	<refnamediv>
+		<refname>Joker Application Framework</refname>
+		<refpurpose>Code-generated Documentation of JAF</refpurpose>
+	</refnamediv>
+	<refsynopsisdiv>
+		<author>
+			Mitos Kalandiel
+			<authorblurb>
+				{@link mailto:mitos@joker-solutions.org mitos[at]joker-solutions.org}
+			</authorblurb>
+		</author>
+	</refsynopsisdiv>
+	{@toc}
+	<refsect1 id="{@id intro}">
+		<title>Introduction</title>
+		<para>
+			This will be the User Guide for the Joker Application Framework. 
+		</para>
+	</refsect1>
+	<refsect1 id="{@id first}">
+		<title>But first ...</title>
+		<para>
+			requirements :
+			any php 5 or above
+			mbstring extension for some string manipulation plugins (especially if you intend to use UTF-8)
+			gnu gettext extension for Localization
+			recommended :
+			mysqli the new MySQL connector for php
+
+			project created :
+			 02/08/2009
+
+			This software is provided 'as-is', without any express or implied warranty.
+			In no event will the authors be held liable for any damages arising from the use of this software.
+
+			This file is released under the LGPL
+			"GNU Lesser General Public License"
+			More information can be found here:
+			http://www.gnu.org/copyleft/lesser.html
+		</para>
+	</refsect1>
+	<refsect1 id="{@id whatis}">
+		<title>What is the Joker Application Framework?</title>
+		<para>
+			The JAF ("Joker Application Framework") intends to be a full grown
+			CMS including all components that are needed for such a system.
+		</para>
+	</refsect1>
+</refentry>

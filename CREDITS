@@ -1,0 +1,36 @@
+#################################
+## Joker Application Framework ##
+#################################
+
+ #########
+# Credits #
+ #########
+
+
+ =======================================================================
+| Joker Application Framework is a collaborative project released       |
+| under the GNU General Public License v2. We would like to recognize   |
+| the following names for their contribution to the product.            |
+|                                                                       |
+| -- Developers --                                                      |
+| * Mitos Kalandiel (JAF-Core)                                          |
+| * Sebastian Meier zu Biesen (Themes & Layout)                         |
+|                                                                       |
+| -- Translators --                                                     |
+| * Sebastian Meier zu Biesen [de_DE]                                   |
+|                                                                       |
+ =======================================================================
+
+ =======================================================================
+| Joker Solutions would also like to thank the developers of            |
+| the following libraries :                                             |
+|                                                                       |
+|  * Smarty (http://www.smarty.net)                                     |
+|  * Dwoo   (http://www.dwoo.org)                                       |
+|  * TinyMCE                                                            |
+|  * OverLib                                                            |
+|  * jQuery / pQuery                                                    |
+|  * ThickBox                                                           |
+|  * YAML (Yet Another Markup Language)                                 |
+|                                                                       |
+ =======================================================================

@@ -1,0 +1,45 @@
+#################################
+## Joker Application Framework ##
+#################################
+
+ ###############
+# Release Notes #
+ ###############
+
+
+
+Security reminder: JAF has been developed on Apache 2.2.8 / PHP 5.2.4 (with Suhosin Patch 0.9.6.2)
+So any PHP 5.x environment should be sufficent to run JAF
+Please note : JAF requires PHP_5(!!!!) due to it's OOP-Design (OOP=Object Oriented Programming)
+
+== JAF 0.5 ==
+September 18, 2009
+------------------
+The first beta release of JAF.
+Still a lot to be done, but basic functionality is now there.
+Internationalization (I18n) via gettext() has been enabled and
+the first language packages have been created for 
+english and german (en_GB.utf8 / de_DE.utf8)
+
+== JAF 0.4 ==
+September 15, 2009
+------------------
+This is the first release where themes (or at least so far) are included.
+Templating Engine choice is now made thru theme-information
+Each theme MUST contain at least this file in it's root : theme.info.php
+
+== JAF 0.3 ==
+September 13, 2009
+------------------
+This release of JAF contains functions to incoorperate the Smarty / Dwoo
+Templating Engine. Choice of the engine is made manually so far.
+
+== JAF 0.2 ==
+September 10, 2009
+------------------
+In this release the first Core functions for JAF exist, not much more
+
+== JAF 0.1 ==
+September 08, 2009
+------------------
+This is the first unofficial alpha release of the Joker Application Framework

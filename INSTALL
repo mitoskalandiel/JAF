@@ -1,0 +1,25 @@
+#################################
+## Joker Application Framework ##
+#################################
+
+ ##############
+# Installation #
+ ##############
+
+So far installation only involves really one step
+
+Copy the source of JAF into the webroot of your apache
+webserver. Point your browser to your-domain.com
+
+Please be aware that following directories always need
+write-access (chmod 664) by the web-server :
+
+./themes/_themename_/templates_c/
+./themes/_themename_/cache/
+(future release : ./db/)
+
+(Please replace "_themename_" with the actual themename, such as "default")
+Please note: sometimes you have to change the owner/group of all JAF-files aswell
+(chown -R www-user:www-group JAF/)
+
+Any other directory in JAF "only" needs read/exe rights (chmod 554)

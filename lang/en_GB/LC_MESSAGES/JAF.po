@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JAF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-28 00:03-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mitos Kalandiel <mitoskalandiel@gmail.com>\n"
+"Language-Team: Joker Solutions <info@joker-solutions.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: w:\\dev.joker-solutions.org\n"
+"X-Poedit-KeywordsList: getString;addString\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/functions.php:44
+#: inc/functions.php:49
+msgid "NotAllowed"
+msgstr "This action is not allowed!"
+
+# This is the name of the Application!\n
+# It's NOT a must to translate this string..
+#: inc/configure.php:132
+#: inc/classes/l10n.class.php:97
+msgid "JAF"
+msgstr "Joker Application Framework"
+
+#: inc/classes/theme.class.php:69
+#: inc/classes/theme.class.php:73
+#: inc/classes/l10n.class.php:98
+msgid "NoEngineInTheme"
+msgstr "No Templating-Engine defined in Theme!"
+
+#: inc/classes/theme.class.php:90
+#: inc/classes/config.class.php:81
+#: inc/classes/environment.class.php:82
+#: inc/classes/template.class.php:125
+#: inc/classes/l10n.class.php:63
+#: inc/classes/l10n.class.php:101
+msgid "NameSetInternal"
+msgstr ""
+"Not Allowed!\n"
+"This obejct's name has been set internally!\n"
+"Do not attempt to change it, or the sky WILL fall on your head!!!"
+
+#: inc/classes/template.class.php:108
+#: inc/classes/l10n.class.php:99
+msgid "EngineInitFailed"
+msgstr "Templating-Engine could not be initialized!"
+
+#: inc/classes/template.class.php:143
+#: inc/classes/l10n.class.php:100
+msgid "NoEngineDefined"
+msgstr "No Templating-Engine defined whatsoever!"
+
+#~ msgid "CustomMsg"
+#~ msgstr "A Custom Message!"
+#~ msgid "CustomString"
+#~ msgstr "A new Custom String!"
+

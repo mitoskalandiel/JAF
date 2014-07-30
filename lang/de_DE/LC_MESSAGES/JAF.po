@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JAF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-28 00:03-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mitos Kalandiel <mitoskalandiel@gmail.com>\n"
+"Language-Team: Joker Solutions <info@joker-solutions.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: w:\\dev.joker-solutions.org\n"
+"X-Poedit-KeywordsList: getString;addString\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/functions.php:44
+#: inc/functions.php:49
+msgid "NotAllowed"
+msgstr "Diese Aktion ist nicht erlaubt!"
+
+# Das ist der Name der Applikation\n
+# Kann aber MUSS nicht &uuml;bersetzt werden..
+#: inc/configure.php:132
+#: inc/classes/l10n.class.php:97
+msgid "JAF"
+msgstr "Joker Applikations Ger&uuml;st"
+
+#: inc/classes/theme.class.php:69
+#: inc/classes/theme.class.php:73
+#: inc/classes/l10n.class.php:98
+msgid "NoEngineInTheme"
+msgstr "Kein Anzeige-Service im Layout definiert!"
+
+#: inc/classes/theme.class.php:90
+#: inc/classes/config.class.php:81
+#: inc/classes/environment.class.php:82
+#: inc/classes/template.class.php:125
+#: inc/classes/l10n.class.php:63
+#: inc/classes/l10n.class.php:101
+msgid "NameSetInternal"
+msgstr ""
+"Das ist nicht erlaubt!\n"
+"Der Name dieses Objekts wurde schon intern gesetzt!\n"
+"&Auml;ndere den Namen und der Himmel WIRD Dir auf den Kopf fallen!!!"
+
+#: inc/classes/template.class.php:108
+#: inc/classes/l10n.class.php:99
+msgid "EngineInitFailed"
+msgstr "Der Anzeige-Service konnte nicht initialisiert werden!"
+
+#: inc/classes/template.class.php:143
+#: inc/classes/l10n.class.php:100
+msgid "NoEngineDefined"
+msgstr "Kein Anzeige-Service definiert!"
+
+#~ msgid "CustomMsg"
+#~ msgstr "Eine angepasste Nachricht!!"
+#~ msgid "CustomString"
+#~ msgstr "Eine angepasster Stringtext!!"
+#~ msgid "Engine could not be initialized!"
+#~ msgstr "Template Backend konnte nicht initialisiert werden."
+
