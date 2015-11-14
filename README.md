@@ -2,9 +2,9 @@
 
 ## Read Me First
 
-============================================
-= Please read the documentation in ./docs/ =
-============================================
+Please read the documentation in ./docs/
+
+### Documentation
 
 We offer two forms of documentation for this software :
 
@@ -18,8 +18,7 @@ We offer two forms of documentation for this software :
 (To read the html-documentation just point your browser
 to your JAF-installation [ie: http://www._your-domain_.com/docs/html/])
 
-## General Information
+### Installation
 
-### Install
-
-    Basically, check this out into your Web-Root
+Do a 'git clone https://github.com/mitoskalandiel/JAF.git'
+into your webroot (eg: /var/www/html) and visit your browser.
