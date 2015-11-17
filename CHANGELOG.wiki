@@ -25,9 +25,7 @@
 * Some structural changes
 * PHPDoc filled out
 
-=====================
-== Initial release ==
-=====================
+=== Initial release ===
 
- * First draft of JAF made 
- * including all predicted libs and jscripts
+* First draft of JAF made 
+* including all predicted libs and jscripts
