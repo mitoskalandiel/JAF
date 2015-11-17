@@ -1,45 +1,29 @@
-#################################
-## Joker Application Framework ##
-#################################
-
- ###########
-# Changelog #
- ###########
+== Changelog ==
  
-=======================
-== Changes since 0.5 ==
-=======================
+=== Changes since 0.5 ===
 
- * environment-engine written and included
- * documentation overhauled in some parts
+* environment-engine written and included
+* documentation overhauled in some parts
  
-=======================
-== Changes since 0.4 ==
-=======================
+=== Changes since 0.4 ===
 
- * l10n-engine overhauled
+* l10n-engine overhauled
 
-=======================
-== Changes since 0.3 ==
-=======================
+=== Changes since 0.3 ===
 
- * l10n-engine written and included
- * theme-engine reads themes correctly
+* l10n-engine written and included
+* theme-engine reads themes correctly
 
-=======================
-== Changes since 0.2 ==
-=======================
+=== Changes since 0.2 ===
 
- * Template-Engine included
- * Restructured PHPDoc
- * Theme-Engine included
+* Template-Engine included
+* Restructured PHPDoc
+* Theme-Engine included
 
-=======================
-== Changes since 0.1 ==
-=======================
+=== Changes since 0.1 ===
 
- * Some structural changes
- * PHPDoc filled out
+* Some structural changes
+* PHPDoc filled out
 
 =====================
 == Initial release ==
